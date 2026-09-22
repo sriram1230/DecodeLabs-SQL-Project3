@@ -1,0 +1,15 @@
+Product,OrderStatus,order_count,lost_or_pending_revenue
+Chair,Cancelled,45,48660.98
+Laptop,Cancelled,35,43761.72
+Tablet,Returned,43,42525.86
+Tablet,Cancelled,34,40629.96
+Monitor,Returned,36,40524.6
+Laptop,Returned,39,39654.3
+Desk,Cancelled,35,39587.69
+Printer,Cancelled,35,38675.16
+Monitor,Cancelled,35,37057.44
+Printer,Returned,38,35939.09
+Phone,Returned,31,29164.2
+Desk,Returned,32,28831.49
+Phone,Cancelled,31,28023.26
+Chair,Returned,28,26638.16

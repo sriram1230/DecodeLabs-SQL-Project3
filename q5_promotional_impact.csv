@@ -1,0 +1,5 @@
+coupon_tier,usage_count,avg_items_in_cart,avg_quantity_per_order,gross_sales,aov
+FREESHIP,313,5.53,2.92,335036.99,1070.41
+NO_COUPON,309,5.56,3.05,322401.41,1043.37
+SAVE10,286,5.46,2.95,304840.02,1065.87
+WINTER15,292,5.38,2.86,302483.54,1035.9
